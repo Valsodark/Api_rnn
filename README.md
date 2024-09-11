@@ -5,8 +5,8 @@
 ![pyPI - Python Version](https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package)
 
 ## About
-This is a machine learning in python for phishing detection. 
-Where we used tensorflow to train a model then deploy it as a api service.
+This is a project for phishing detection using machine learning in python. 
+Where we used tensorflow to train a model then deploy it as a api service with fastapi.
 
 ## Documentation
 1. FastApi
