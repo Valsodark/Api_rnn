@@ -1,4 +1,5 @@
 # Api_rnn
+![alt text](TensorFlow_RNNwith_FastAPI.png)
 ## Step 1 Install FastAPI
 Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
 ```bash
@@ -8,5 +9,3 @@ pip install "fastapi[standard]"
 ```bash
 fastapi dev api_rnn/api_rnn.py
 ```
-## Licenses
-[MIT](https://choosealicense.com/licenses/mit/)
