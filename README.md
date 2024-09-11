@@ -4,7 +4,13 @@
 ![Static Badge](https://img.shields.io/badge/tensorflow-2.17-orange)
 ![pyPI - Python Version](https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package)
 
-
+## Documentation
+1. FastApi
+    1. [Documentation]https://fastapi.tiangolo.com
+    2. [Source_Code]https://github.com/fastapi/fastapi
+2. Tensorflow
+    1. [Documentation]https://www.tensorflow.org/
+    2. [Source_Code]https://github.com/tensorflow
 ## Step 1 Install FastAPI
 Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
 ```bash
