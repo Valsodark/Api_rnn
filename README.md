@@ -7,6 +7,7 @@
 ## About
 This is a project for phishing detection using machine learning in python. 
 Where we used tensorflow to train a model then deploy it as a api service with fastapi.
+For the training we used recurrent units witch you can find more about [here](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
 
 ## Documentation
 1. FastApi
