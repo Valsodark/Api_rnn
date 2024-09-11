@@ -1,6 +1,6 @@
 # Api_rnn
 ## Step 1 Install FastAPI
-Use the package maneger [pip] to install FastAPI.
+Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
 ```bash
 pip install "fastapi[standard]"
 ```
