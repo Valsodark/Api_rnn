@@ -4,6 +4,9 @@
 ![Static Badge](https://img.shields.io/badge/tensorflow-2.17-orange)
 ![pyPI - Python Version](https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package)
 
+## About
+This is a machine learning in python for phishing detection. 
+Where we used tensorflow to train a model then deploy it as a api service.
 
 ## Documentation
 1. FastApi
