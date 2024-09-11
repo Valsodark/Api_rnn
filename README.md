@@ -1,6 +1,8 @@
 # Api_rnn
 ![alt text](TensorFlow_RNNwith_FastAPI.png)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/latest)
+![Static Badge](https://img.shields.io/badge/tensorflow-2.17-orange)
+
 
 ## Step 1 Install FastAPI
 Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
