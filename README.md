@@ -11,12 +11,13 @@
 2. Tensorflow
     - [Documentation](https://www.tensorflow.org/)
     - [Source_Code](https://github.com/tensorflow)
-## Step 1 Install FastAPI
+## Installation and setup
+### Installation
 Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
 ```bash
 pip install "fastapi[standard]"
 ```
-## Step 2 Run unicorn server
+### Setup
 ```bash
 fastapi dev api_rnn/api_rnn.py
 ```
