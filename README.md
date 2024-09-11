@@ -24,7 +24,7 @@ Run a [uvicorn](https://www.uvicorn.org/) server
 fastapi dev api_rnn/api_rnn.py
 ```
 You will get a link like this [http://127.0.0.1:8000](http://127.0.0.1:8000)
-and this [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+and this [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).\
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) is ran with 
 [Swagger](https://swagger.io/) which is a open-source GUI for API development
 or you can use Postman or curl.
