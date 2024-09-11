@@ -13,12 +13,18 @@
     - [Source_Code](https://github.com/tensorflow)
 ## Installation and setup
 ### Installation
-Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
+Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI and Tensorflow
 ```bash
 pip install "fastapi[standard]"
+pip install tensorflow
 ```
 ### Setup
 Run a [uvicorn](https://www.uvicorn.org/) server
 ```bash
 fastapi dev api_rnn/api_rnn.py
 ```
+You will get a link like this [http://127.0.0.1:8000](http://127.0.0.1:8000)
+and this [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) is ran with 
+[Swagger](https://swagger.io/) which is a open-source GUI for API development
+or you can use Postman or curl.
