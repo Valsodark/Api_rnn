@@ -18,6 +18,7 @@ Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to in
 pip install "fastapi[standard]"
 ```
 ### Setup
+Run a [uvicorn](https://www.uvicorn.org/) server
 ```bash
 fastapi dev api_rnn/api_rnn.py
 ```
