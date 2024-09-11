@@ -1,5 +1,6 @@
 # Api_rnn
 ## Step 1 Install FastAPI
+Use the package maneger [pip] to install FastAPI.
 ```bash
 pip install "fastapi[standard]"
 ```
@@ -7,3 +8,5 @@ pip install "fastapi[standard]"
 ```bash
 fastapi dev api_rnn/api_rnn.py
 ```
+## Licenses
+[MIT](https://choosealicense.com/licenses/mit/)
