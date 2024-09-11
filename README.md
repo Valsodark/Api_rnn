@@ -6,11 +6,11 @@
 
 ## Documentation
 1. FastApi
-    1. [Documentation]https://fastapi.tiangolo.com
-    2. [Source_Code]https://github.com/fastapi/fastapi
+    - [Documentation]https://fastapi.tiangolo.com
+    - [Source_Code]https://github.com/fastapi/fastapi
 2. Tensorflow
-    1. [Documentation]https://www.tensorflow.org/
-    2. [Source_Code]https://github.com/tensorflow
+    - [Documentation]https://www.tensorflow.org/
+    - [Source_Code]https://github.com/tensorflow
 ## Step 1 Install FastAPI
 Use the package maneger [pip](https://pip.pypa.io/en/stable/installation/) to install FastAPI.
 ```bash
